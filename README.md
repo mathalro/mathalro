@@ -25,7 +25,7 @@ More recently, I have started working for Amazon Web Services. So, putting thing
 
 **Passion**
 
-Beyond writing code, I'm passionate for the High Level solutions of what I'm writing, and that's why I'm an enthusiast to Cloud Computing and Distributed Systems, every line of code has a high level purpose that impacts a component, which in turn interacts with another component and finally solves a real problem. 
+Beyond writing code, I'm passionate for the High Level solutions of what I'm writing, and that's why I'm an enthusiast to Cloud Computing and Distributed Systems, every line of code has a high level purpose that impacts a component, which in turn interacts with another components and finally solves a real problem. 
 
 
 ### Beyond code

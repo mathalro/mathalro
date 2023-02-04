@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 * 🔭 I’m currently working at Amazon Web Services in Load Balancer team. Me and my teammates are responsibles for Designing, Developing and Supportting Load Balancer Systems for Amazon Products and Services, which includes deep concepts of Networking applied to robust, scalable and high impact systems.  
-* 🌱 I’m currently learning more about **Cloud Computing Concepts**, **Distributed Systems** and curious about how **WEB 3.0** can impact how we, developers, use those concepts nowadays.
-* 💬 Ask me about Cloud Computing, because the best way to relaly learn is sharing what you think you learn 🙂
+* 🌱 I’m currently learning more about **Cloud Computing Concepts**, **Distributed Systems** and curious about how **WEB 3.0** will impact how we, developers, use those concepts nowadays.
+* 💬 Ask me about Cloud Computing, because the best way to really learn is sharing what you think you learn 🙂
 * 📌 I'm originally from Brazil 🇧🇷. I'm living in Ireland 🇮🇪 since 2022. And I've lived in Portugal 🇵🇹 in 2018. Boundaries are only a human invention 🙂
 
 ### Journey

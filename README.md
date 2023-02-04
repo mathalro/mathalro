@@ -30,6 +30,6 @@ Beyond writing code, I'm passionate for the High Level solutions of what I'm wri
 
 ### Beyond code
 
-As a good Brazilian, I'm a big football fan. Football taght me things that I consider fundamental in our lifes, including work, and sometimes, we need years to learn, like **Leadership**, **Teamwork**, **Competition**, **Results**... and the list goes on. And I like sports in general 🙂
+As a good Brazilian, I'm a big football fan. Football taght me things that I consider fundamental in our lifes, including work, and that sometimes, we need years to learn, like **Leadership**, **Teamwork**, **Competition**, **Results**... and the list goes on. And I like sports in general 🙂
 
 Finally, I like learning, about anything. Because that, sometimes you'll see me somehow out of coding context, and I'll be Playing Guitar, Traveling, Practicing Language, Reading Geopolitics, Investing... and the list also goes on.  

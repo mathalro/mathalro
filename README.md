@@ -19,7 +19,7 @@ I have started programming and became passionate by it in my teenager, when I wa
 
 Back from Portugal, my first job was an Internship in TAKE BLIP. There, I worked for 4 years, from Intern to *Operations TechLead* and learned that *problems are solved from people to people*.
 
-More recently, I have started working for Amazon Web Services. So, putting things together, and I'm glad to have the oportunity to *solve hard problems that will impact people* in a global scale 🙂
+More recently, I have started working for Amazon Web Services. So, putting things together, I'm glad to have the oportunity to *solve hard problems that will impact people* in a global scale 🙂
 
 * ~~Azure, AWS, AKS, Docker, Kubernetes, DynamoDB, SQL, Java, C#, JavaScript, React~~
 

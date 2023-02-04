@@ -11,7 +11,7 @@
 
 **Studying**
 
-I have started programming and became passionate by it in my teenager, when I was 16. Not satisfied with my learning curve, I started Computer Engineering in CEFET-MG where the more important thing for an engineer, *solve problems*. Because some good results in CEFET-MG, I also could study a period in Portugal in the University of Porto.
+I have started programming and became passionate by it in my teenager, when I was 16. Not satisfied with my learning curve, I started Computer Engineering in CEFET-MG where I learned the more important thing for an engineer, *solve problems*. Because some good results in CEFET-MG, I also could study a period in Portugal in the University of Porto. And of course, I keep studying and learning everyday.
 
 * Data Structures and Algorithms, Design Patterns, Operational Systems, Compilers, Distributted Systems, ~~C, C++, Pyton, Machine Learning, OpenGL~~.
 

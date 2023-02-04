@@ -7,7 +7,7 @@
 
 ### Journey
 
-<sub>The strikethrough only means that the technology you use does not changes your journey, your results talk for yourself. But do not get me wrong, quality is indispensable in anything you do and in anything you use.</sub>
+<sub><sub>The strikethrough only means that the technology you use does not changes your journey, your results talk for yourself. But do not get me wrong, quality is indispensable in anything you do and in anything you use.</sub></sub>
 
 *Studying*
 

@@ -13,7 +13,7 @@
 
 I have started programming and became passionate by it in my teenager, when I was 16. Not satisfied with my learning curve, I started Computer Engineering in CEFET-MG where the more important thing for an engineer, *solve problems*. Because some good results in CEFET-MG, I also could study a period in Portugal in the University of Porto.
 
-* Data Structures and Algorithms, Design Patterns, Operational Systems, Compilers, Distributted Systems, ~~C, C++, Machine Learning, OpenGL~~.
+* Data Structures and Algorithms, Design Patterns, Operational Systems, Compilers, Distributted Systems, ~~C, C++, Pyton, Machine Learning, OpenGL~~.
 
 *Working*
 
@@ -21,7 +21,7 @@ Back from Portugal, my first job was an Internship in TAKE BLIP. There, I worked
 
 More recently, I have started working for Amazon Web Services. So, putting things together, and I'm glad to have the oportunity to *solve hard problems that will impact people* in a global scale 🙂
 
-* ~~Azure, AWS, AKS, Java, C#, JavaScript, React~~
+* ~~Azure, AWS, AKS, Docker, Kubernetes, DynamoDB, SQL, Java, C#, JavaScript, React~~
 
 *Passion*
 
